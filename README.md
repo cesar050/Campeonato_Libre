@@ -85,11 +85,6 @@ backend/
 │   │   ├── tarjeta.py           # Tarjetas amarillas/rojas
 │   │   ├── alineacion.py        # Alineaciones por partido
 │   │   ├── notificacion.py      # Sistema de notificaciones
-│   │   └── security/            # Modelos de seguridad
-│   │       ├── refresh_token.py
-│   │       ├── token_blacklist.py
-│   │       ├── login_attempt.py
-│   │       └── security_log.py
 │   │
 │   ├── routes/                  # Endpoints REST API
 │   │   ├── auth_routes.py       # Autenticación (login, register, logout)
