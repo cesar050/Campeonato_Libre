@@ -4,7 +4,6 @@
 [![Flask](https://img.shields.io/badge/Flask-3.0+-green.svg)](https://flask.palletsprojects.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0+-orange.svg)](https://www.mysql.com/)
 [![JWT](https://img.shields.io/badge/JWT-Auth-black.svg)](https://jwt.io/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 # Sistema Web de Gestión de Campeonatos Barriales
@@ -42,8 +41,6 @@ API REST Monolítica con arquitectura en capas:
 │     CAPA DE PRESENTACIÓN (Routes)       │
 ├─────────────────────────────────────────┤
 │   CAPA DE LÓGICA DE NEGOCIO (Models)    │
-├─────────────────────────────────────────┤
-│    CAPA DE ACCESO A DATOS (ORM)         │
 ├─────────────────────────────────────────┤
 │      CAPA DE PERSISTENCIA (MySQL)       │
 └─────────────────────────────────────────┘
